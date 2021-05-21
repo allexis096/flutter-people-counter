@@ -1,5 +1,7 @@
 # people_counter
 
+<img src="https://i.imgur.com/XMaVPvS.png" width="130" height="250" />
+
 A new Flutter project.
 
 ## Getting Started
